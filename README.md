@@ -6,5 +6,7 @@ Solutions to Java coding challenges on Hackerrank :
               https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
               3. for loops 1 
               https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
+              4. StdinAndStdout2
+              https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
 
               
